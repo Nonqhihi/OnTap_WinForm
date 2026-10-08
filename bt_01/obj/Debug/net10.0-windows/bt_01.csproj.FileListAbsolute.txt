@@ -1,0 +1,16 @@
+D:\VS C#\bt_01\obj\Debug\net10.0-windows\bt_01.Form1.resources
+D:\VS C#\bt_01\obj\Debug\net10.0-windows\bt_01.csproj.GenerateResource.cache
+D:\VS C#\bt_01\obj\Debug\net10.0-windows\bt_01.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS C#\bt_01\obj\Debug\net10.0-windows\bt_01.AssemblyInfoInputs.cache
+D:\VS C#\bt_01\obj\Debug\net10.0-windows\bt_01.AssemblyInfo.cs
+D:\VS C#\bt_01\obj\Debug\net10.0-windows\bt_01.csproj.CoreCompileInputs.cache
+D:\VS C#\bt_01\bin\Debug\net10.0-windows\bt_01.exe
+D:\VS C#\bt_01\bin\Debug\net10.0-windows\bt_01.deps.json
+D:\VS C#\bt_01\bin\Debug\net10.0-windows\bt_01.runtimeconfig.json
+D:\VS C#\bt_01\bin\Debug\net10.0-windows\bt_01.dll
+D:\VS C#\bt_01\bin\Debug\net10.0-windows\bt_01.pdb
+D:\VS C#\bt_01\obj\Debug\net10.0-windows\bt_01.dll
+D:\VS C#\bt_01\obj\Debug\net10.0-windows\refint\bt_01.dll
+D:\VS C#\bt_01\obj\Debug\net10.0-windows\bt_01.pdb
+D:\VS C#\bt_01\obj\Debug\net10.0-windows\bt_01.genruntimeconfig.cache
+D:\VS C#\bt_01\obj\Debug\net10.0-windows\ref\bt_01.dll
